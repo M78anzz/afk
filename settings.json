@@ -32,16 +32,13 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 60,
+      "repeat-delay": ,
 
       "messages": [
-        "Ibrahim 3mko",
-        "Follow 3abbadi the baddie",
-        "Kill Qusai for a stack of DIAMOND!"
       ]
     },
 
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-recconect-delay": 5000
   }
